@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Pronouns: He/Him
+Common language: Indonesian\Bahasa Indonesia
+I’m currently tiding my vibe-coding laravel repositories.
+I’m looking for help with learning laravel, from the base.
+
+## Contact
+
+If you want to discuss this repository or ask questions:
+
+- GitHub Issues (preferred)
+- Email: vanxi58424@gmail.com
