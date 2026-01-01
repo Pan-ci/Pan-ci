@@ -21,7 +21,4 @@ I’m looking for help with learning laravel, from the base.
 
 ## Contact
 
-If you want to discuss this repository or ask questions:
-
-- GitHub Issues (preferred)
-- Email: vanxi58424@gmail.com
+If you want to discuss this repository or ask questions, use GitHub Issues.
