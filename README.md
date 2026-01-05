@@ -21,7 +21,7 @@ I’m looking for help with learning laravel, from the base, thank you.
 
 ## About repositories
 Currently, I'm renaming repository, and add prefixes to them:
-L stands for Learning, where I developed the code more than I used AI copy-paste codes;
+L stands for Learning, where I developed the code without AI copy-paste codes;
 VC stands for Vibe Coding with AI copy-paste codes;
 L-VC is combination of L and VC, with various proportions. Just assume L-VC as VC, I just need to differentiate both. NOTE: not a regular renaming, still need time to classify former repositories from past college days. Currently, I'm a college student.
 
