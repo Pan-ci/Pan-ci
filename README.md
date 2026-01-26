@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 Pronouns: He/Him.
 Common language: Indonesian\Bahasa Indonesia.
-I’m currently tiding my vibe-coding laravel repositories.
-I’m looking for help with learning laravel, from the base, thank you.
+I’m currently learning javascript from FreeCodeCamp.
 
 ## About repositories
 Currently, I'm renaming repository, and add prefixes to them:
