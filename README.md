@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 Pronouns: He/Him.<br>
 Common language: Indonesian\Bahasa Indonesia.<br>
 I’m currently learning GitHub basics in DBS Coding Camp.<br>
-How to make merge conflict simulation?<br>
 
 ## About repositories
 Currently, I'm renaming repository, and add prefixes to them:
