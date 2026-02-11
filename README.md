@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Pronouns: He/Him.
-Common language: Indonesian\Bahasa Indonesia.
-I’m currently learning GitHub basics in DBS Coding Camp.
+Pronouns: He/Him.<br>
+Common language: Indonesian\Bahasa Indonesia.<br>
+I’m currently learning GitHub basics in DBS Coding Camp.<br>
+How to make merge conflict simulation?<br>
 
 ## About repositories
 Currently, I'm renaming repository, and add prefixes to them:
