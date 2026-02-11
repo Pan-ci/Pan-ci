@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Pronouns: He/Him.
 Common language: Indonesian\Bahasa Indonesia.
-I’m currently learning javascript from FreeCodeCamp.
+I’m currently learning GitHub basics in DBS Coding Camp.
 
 ## About repositories
 Currently, I'm renaming repository, and add prefixes to them:
